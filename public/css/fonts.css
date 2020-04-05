@@ -1,0 +1,56 @@
+/*@font-face {
+	font-family: "Gotham";
+	src: url( Gotham-Book.eot );
+	src: local("Gotham"), url("Gotham-Book.ttf") format("truetype");
+}*/
+
+/*@font-face{
+    font-family: "Gotham-Book";
+    src: url('Gotham-Book.ttf'),
+    url('Gotham-Book.eot');
+}*/
+
+@font-face {
+	font-family: 'Gotham Book';
+	font-style: normal;
+	font-weight: normal;
+  font-display: swap;
+	src: local('Gotham Book'),local('GothamBook'), url('/fonts/GOTHAMBOOK.woff') format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Gotham Bold';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: local('Gotham Bold'),local('GothamBold'), url('/fonts/Gotham-Bold.woff') format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Source Regular';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: local('Source Regular'),local('SourceRegular'), url('/fonts/Source-Regular.woff') format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Source Semibold';
+  font-style: normal;
+  font-weight: normal;
+  font-display: swap;
+  src: local('Source Semibold'),local('SourceSemibold'), url('/fonts/source-sans-pro-semibold.woff') format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/*@font-face {
+  font-family: 'Trade Winds';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Trade Winds'), local('TradeWinds'), url(https://fonts.gstatic.com/s/tradewinds/v8/AYCPpXPpYNIIT7h8-QenM0Jt5vM.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}*/
